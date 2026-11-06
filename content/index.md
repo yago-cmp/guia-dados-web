@@ -6,15 +6,16 @@ Anotações feitas durante os estudos de Engenharia de Dados dos estagiários, a
 
 `Navegue pelos tópicos!`
 
+- **[[Data Engineering/Data Engineering|Data Engineering]]**
 - **[[SQL]]**
 - **[[Docker]]**
 - **[[Airflow]]**
-- **Google Cloud**
+- **[[Google Cloud/Google Cloud|Google Cloud]]**
 	- Dataform
 	- BigQuery
 	- CloudRun
 	- ...
-- **[[Cloud Digital Leader]]** (Cloud Digital Leader)
+- **[[Cloud Digital Leader]]** 
 - 
 
 Feito com carinho pelos estagiários do time de Data Analytics :)
